@@ -18,7 +18,7 @@ Each row represents a single transaction, with details about the product, quanti
 ## KPIs
 | KPI | Value |
 |---|---|
-| Total Revenue | KSH 3,206.450 |
+| Total Revenue | KSH 3,206,450 |
 | Number of Unique Customers | 113 |
 | Average Revenue per Transaction | KSH 10,688.167 |
 
